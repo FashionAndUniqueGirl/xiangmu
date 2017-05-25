@@ -1,0 +1,15 @@
+.Content_lis{
+	width:495px;
+	height:183px;
+	margin: 5px;
+	list-style: none;
+	border:1px solid red;
+	position: relative;
+}
+.imgss{
+	position: absolute;
+	width:211px;
+	height:151px;
+	top:15px;
+	left:15px;
+}
