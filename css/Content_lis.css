@@ -31,7 +31,14 @@ a:hover{
 	  padding: 0;
 }
 .contai{
-	 margin-bottom: 90px;
+	width: 1000px;
+	height: 658px;
+	margin-bottom: 90px;
+}
+@media screen and (max-width: 766px){
+	.contai{
+		       width: 100%;
+	}
 }
 @media screen and (min-width: 768px) and (max-width: 1000px) {
 	.contai ul li {
@@ -75,12 +82,6 @@ a:hover{
 		       font-size: 22px;
 	}
 }
-/*@media screen and (max-width: 100px) and (max-width: 1000px){
-	.contai ul li{
-		position: relative;
-		
-	}
-}*/
 @media screen and (max-width: 330px){
    .container ul li .second_p{
 	   font-size: 20px;

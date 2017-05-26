@@ -6,7 +6,9 @@ a ,a:hover {
 .container {
 	max-width: 1000px;
 }
-
+img{
+	z-index: 999;
+}
 body {
 	min-width: 330px;
 	overflow-x: hidden;
