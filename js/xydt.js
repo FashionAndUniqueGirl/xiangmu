@@ -1,26 +1,2 @@
- window.onload=function(){
-//  var datas=[
-//     {"did":1,"name":"又降价！Intel狂推首款可超频i3 中国特供","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":2,"name":"父子俩野营时喂了一只野猫 打开帐篷震惊","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":3,"name":"iPhone 7为啥卖不动？终于知道了！","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":4,"name":"7吨超美国！中国革命性大卫星领先世界1代","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":5,"name":"昨晚全世界都被杭州美哭了(图)","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":6,"name":"A系处理器成历史！苹果从零自研GPU","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":7,"name":"黑科技让NVMe SSD性能爆炸！再不浪费容量","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":8,"name":"都是泪！QQ最新大数据：年轻人看完沉默了","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":9,"name":"特斯拉什么车都要造：但就是不造它","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":10,"name":"新一代宝马X4首次现身：内外大换血！","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":11,"name":"又降价！Intel狂推首款可超频i3 中国特供","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":12,"name":"父子俩野营时喂了一只野猫 打开帐篷震惊","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":13,"name":"iPhone 7为啥卖不动？终于知道了！","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":14,"name":"7吨超美国！中国革命性大卫星领先世界1代","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":15,"name":"昨晚全世界都被杭州美哭了(图)","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":16,"name":"A系处理器成历史！苹果从零自研GPU","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":17,"name":"黑科技让NVMe SSD性能爆炸！再不浪费容量","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":18,"name":"都是泪！QQ最新大数据：年轻人看完沉默了","price":16.5,"img_sm":"p2679.jpg","material":"切片吐司、紫薯、铁棍山药、糖桂花、炼乳"},
-//     {"did":19,"name":"特斯拉什么车都要造：但就是不造它","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"},
-//     {"did":20,"name":"新一代宝马X4首次现身：内外大换血！","price":36,"img_sm":"p0281.jpg","material":"明虾、番茄酱、白糖、白醋、葱、姜、淀粉"},
-//     {"did":21,"name":"二十四节气怎样来的？老祖宗真智慧","price":32,"img_sm":"p8489.jpg","material":"三黄鸡、杭椒、干红椒、新鲜小米椒、麻椒、八角、香叶、葱、姜、生抽"}
-// ];
 
-}
+ // window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
